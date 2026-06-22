@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm install --prefix backend && npm install --prefix Frountend/vite-project && npm run build --prefix Frountend/vite-project"
+    "build": "npm install --prefix Backend && npm install --prefix Frountend/vite-project && npm run build --prefix Frountend/vite-project",
+    "start": "npm run start --prefix backend"
   },
   "repository": {
     "type": "git",
