@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "full-stack-youtube": "file:..",
     "lucide-react": "^1.21.0"
   }
 }
